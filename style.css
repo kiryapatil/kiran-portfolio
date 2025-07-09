@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 
-
 .tektur-<uniquifier> {
   font-family: "Tektur", sans-serif;
   font-optical-sizing: auto;
@@ -11,7 +10,7 @@
 }
 
 body {
-  font-family: "Tektur", sans-serif;
+  font-family: "Tektur", sans-serif!important;
   line-height: 1.6;
   margin: 0;
   padding: 0;
